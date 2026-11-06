@@ -38,8 +38,7 @@ Tools: Excel
 
 ## Connect With Me
 - Github: https://github.com/nnennadm-data
-- LinkedIn:www.linkedin.com/in/
-mongnnennadorcas
+- LinkedIn:www.linkedin.com/in/mongnnennadorcas
 - Email: nnennadm@gmail.com
 
   *Turning data into insights, and insights into decisions.*
