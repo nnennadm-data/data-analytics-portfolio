@@ -4,11 +4,11 @@ Welcome to my Data Analytics Portfolio!
 I am a Biochemistry graduate transitioning into data analytics, with an interest in using data uncover patterns, solve business problems, and support informed decision makinng.
 I enjoy transforming raw datasets into meaningful insights through data cleaning, exploratory data analysis,SQL queries, and interactive dashboards.
 ## Technical Skills
--- Excel: 
--- SQL: 
--- Python:
--- PowerBi:
--- Tableau:
+-- **Microsoft Excel:** Data cleaning,data manipulation,analysis and reporting. 
+-- **SQL(MYSQL):** Joins,aggregations,subqueries,CTEs and windows functions.
+-- **Python:** Pandas,Numpy, and Matplotlib.
+-- **Power Bi:** Data Modelling, DAX and interactive dashboards.
+-- **Tableau:** Data visualization and analytical reporting.
 ## Featured Projects
 ### 1. Bakery Sales,Customer and Inventory Analytics
 Tools: SQL,Python,Power BI
