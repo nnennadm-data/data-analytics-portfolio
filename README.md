@@ -1,6 +1,3 @@
-# data-analytics-portfolio
-A collection of data analytics projects,SQL queries, dashboards and business insights
-
 # Hello, I'm Nnenna Dorcas Mong 
 ### Aspiring Data Analyst| Business Intelligence | Data-Driven Decision Making
 Welcome to my Data Analytics Portfolio!
