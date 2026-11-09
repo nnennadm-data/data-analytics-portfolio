@@ -36,6 +36,9 @@ Tools: Excel
 - Business Operations
 - Data-Driven Decision Making
 
+**Project Repository**
+[View Bakery Sales Analysis](http://github.com/nnennadm-data/Bakery-Analysis)
+
 ## Connect With Me
 - Github: https://github.com/nnennadm-data
 - LinkedIn:www.linkedin.com/in/mongnnennadorcas
